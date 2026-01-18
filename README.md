@@ -27,7 +27,7 @@ No more calculators, no more Excel formulas, no more DSR stress!
 
 ### The Smart Way to Handle DSR
 
-1. **Enter tank dip** → We calculate volume (20KL tanks)
+1. **Enter tank dip** → We calculate volume
 2. **Enter pump readings** → We calculate sales
 3. **Count cash** → We calculate totals
 4. **Add credits** → We track everything
@@ -51,10 +51,9 @@ No more calculators, no more Excel formulas, no more DSR stress!
 ### 📈 Professional Reports (Impress Everyone!)
 
 - **Text Report (.txt)** - Complete daily report for each pump
-- **MS Sales Report(.xlsx)** - Petrol sales with density & stock
-- **HSD Sales Report(.xlsx)** - Diesel sales with density & stock  
+- **Petrol Daily Sales(.xlsx)** - Petrol sales with density & stock
+- **Diesel Daily Sales(.xlsx)** - Diesel sales with density & stock  
 - **Daily INR Sales(.xlsx)** - 24-hour sales in ₹ with charts
-- **PDF Reports(.pdf)** - Professional printouts with your company watermark
 
 ### 💰 Financial Management
 
@@ -84,7 +83,7 @@ No more calculators, no more Excel formulas, no more DSR stress!
 ## 💻 System Requirements
 
 - **Windows 10 or 11** (64-bit)
-- **1 GB free disk space**
+- **500 MB free disk space**
 - **Internet connection** (for Google Drive backup - optional)
 - That's it! 
 
@@ -104,7 +103,7 @@ During installation, you can choose:
 - ✅ **Desktop icon** - Quick access to PumpIQ
 - ✅ **Records folder shortcut** - Direct access to all your reports
 
-**First Launch**: 15-day free trial starts automatically (Full access, no credit card!)
+**First Launch**: 60-day free trial starts automatically (Full access, no credit card!)
 
 ---
 
